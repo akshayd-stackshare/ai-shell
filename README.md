@@ -6,7 +6,7 @@
 </h2>
 
 <h4 align="center">
-   A CLI that converts natural language to shell commands.
+   aA CLI that converts natural language to shell commands.
 </h4>
 <p align="center">
    <a href="https://www.npmjs.com/package/@builder.io/ai-shell"><img src="https://img.shields.io/npm/v/@builder.io/ai-shell" alt="Current version"></a>
